@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "Killer Stream",
+      "description": "Something cool",
+      "id": 1
+    },
+    {
+      "title": "Another stream ",
+      "description": "WHOOOOO",
+      "id": 2
+    },
+    {
+      "title": "I made an oopsie",
+      "description": "NOOOOooooo",
+      "userId": "117616178143797261509",
+      "id": 4
+    },
+    {
+      "title": "what happened??",
+      "description": "soemthing works ",
+      "userId": "117616178143797261509",
+      "id": 5
+    },
+    {
+      "title": "WHERE DOTH IT GO",
+      "description": "ID",
+      "id": 8
+    },
+    {
+      "title": "You can't make me",
+      "description": "Okay everything still works maybe? ",
+      "id": 9
+    }
+  ]
+}
